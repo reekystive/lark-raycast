@@ -17,6 +17,14 @@
       "description": "Open tasks in Lark.",
       "mode": "no-view",
       "icon": "lark.svg"
+    },
+    {
+      "name": "create-task",
+      "title": "Create Task",
+      "subtitle": "Lark",
+      "description": "Create a task in Lark.",
+      "mode": "no-view",
+      "icon": "lark.svg"
     }
   ],
   "dependencies": {
