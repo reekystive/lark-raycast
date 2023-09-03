@@ -25,6 +25,22 @@
       "description": "Create a task in Lark.",
       "mode": "no-view",
       "icon": "lark.svg"
+    },
+    {
+      "name": "open-calendar",
+      "title": "Open Calendar",
+      "subtitle": "Lark",
+      "description": "Open calendar in Lark.",
+      "mode": "no-view",
+      "icon": "lark.svg"
+    },
+    {
+      "name": "create-event",
+      "title": "Create Event",
+      "subtitle": "Lark",
+      "description": "Create a calendar event in Lark.",
+      "mode": "no-view",
+      "icon": "lark.svg"
     }
   ],
   "dependencies": {
